@@ -1,15 +1,18 @@
 header {
 	height: 70px;
 	background: white;
-	border-bottom: 1px, #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	position: absolute;
+	top: 0;
 }
 
-div {
-	background-image: url(images/logo.png);
+header .logo {
+	background-image: url('../images/logo.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	position: absolute;
-	margin-left: 20px;
-	top: 50%;
-	transform: translateY(-50%);
+	top: 0;
+	left: 20px;
+	height: 100%;
+	width: 100%;/
 }
