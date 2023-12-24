@@ -8,4 +8,7 @@
 	max-width: 1000px;
 	margin-top: 30px;
 	margin-bottom: 30px;
+	position: fixed;
+	top: 100px;
+	left: 150px;
 }

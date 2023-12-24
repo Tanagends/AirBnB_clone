@@ -6,6 +6,7 @@
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
 }
+
 button {
 	font-size: 18px;
 	background: #FF5A5F;
@@ -16,4 +17,11 @@ button {
 	border-radius: 4px;
 	right: 30px;
 	border: none;
+}
+
+div.locations {
+
+
+.locations h3, .amenities h3 {
+	font-weight: 600;
 }

@@ -4,6 +4,7 @@ header {
 	border-bottom: 1px solid #CCCCCC;
 	position: absolute;
 	top: 0;
+	margin-bottom: 30px;
 }
 
 header .logo {
